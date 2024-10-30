@@ -2,8 +2,12 @@
 
 This repository contains the Python CLI version of the IIDX Hi-Speed Calculator  
 These versions of the tool were originally developed in 2023 from January to September with irregular updates.  
-The older versions of the tool can be viewed in older commits.
+The older versions of the tool can be viewed in older commits.  
 
+The Java version of this tool can be found here &#8594; [IIDX-HiSpeed-Calculator-JavaVersion](https://github.com/spicakitty/IIDX-HiSpeed-Calculator-JavaVersion)
+
+The HTML version of this tool can be found here &#8594; [IIDX-HiSpeed-Calculator-HTMLVersion](https://github.com/spicakitty/IIDX-HiSpeed-Calculator-HTMLVersion)
+  
 ## How to use  
 Run the Python script like you would any other Python script.  
 ## What are these values
