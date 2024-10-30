@@ -11,9 +11,13 @@ The HTML version of this tool can be found here &#8594; [IIDX-HiSpeed-Calculator
 ## How to use  
 Run the Python script like you would any other Python script.  
 ## What are these values
-- GN (Green Number) is the amount of milliseconds that a note stays on the screen for.
-- WN (White Number) is the amount of the screen that is obscured by SUDDEN+ (out of a 1000)
-- Screen Limits are WN values that are equivalent to the edge of your TV screen. The values present in this archive correspond to the values I approximated on my CRT TV.
+- **GN** (Green Number) is the amount of milliseconds that a note stays on the screen for.
+- **WN** (White Number) is the amount of the screen that is obscured by SUDDEN+ (out of a 1000)
+- **ScreenLimits** are WN values that are equivalent to the edge of your TV screen. The values present in this archive correspond to the values I approximated on my CRT TV.
+- **HiSpeed** is the option you would select in the game.
+- **Multiplier** is the actual magnification value of the HiSpeed option.
+- **Max BPM** is the highest BPM you could use each HiSpeed option on without having to read too fast.
+- **Towel** is the amount of the playfield you would block physically with a towel (out of a 1000). This value is different from the White Number because it takes the screenlimits into account.
 
 ## Version History
 ### VERSION 1.0  
